@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<script src="jquery.js"></script>
+	<script src="mst_collection.js"></script>
+	<script src="lastScreenshot.js"></script>
+
+	<script type="text/javascript">
+		var response = {'collection': collection, 'i': i};
+		console.log(JSON.stringify(response));
+
+		jQuery.each(collection, function (key, item) {
+			var comment = jQuery('<div style="width:500px; padding: 20px" class="'+ item.slug +'">').append('<h1>' + item.title + '</h1>').append('<p>' + item.comment + '</p>');
+
+			jQuery('body').append(comment);
+		});
+	</script>
+</body>
+</html>

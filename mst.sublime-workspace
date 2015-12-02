@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"commen",
+				"commentCollection"
+			],
+			[
+				"sc",
+				"screenPosition"
+			],
+			[
+				"max",
+				"maxPriceSearch"
+			],
+			[
+				"min",
+				"minPriceSearch"
+			],
+			[
+				"name",
+				"nameSearch"
+			],
+			[
+				"race",
+				"raceSearch"
+			],
+			[
+				"dele",
+				"deleteRecord"
+			],
+			[
+				"click",
+				"clickToDelete"
+			],
+			[
+				"bith",
+				"birthDate"
+			],
+			[
+				"in",
+				"injectResponse"
+			],
+			[
+				"get",
+				"getUrl"
+			],
+			[
+				"is",
+				"isAvailable"
+			],
+			[
+				"sa",
+				"saveTask"
+			],
+			[
+				"task",
+				"taskCollection"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pt",
+				"prototype"
+			],
+			[
+				"clean",
+				"cleanCommand"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"add",
+				"addPostToCollectionAndView"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"foo",
+				"footerText"
+			],
+			[
+				"lastn",
+				"lastname"
+			],
+			[
+				"title",
+				"titleElement"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"form",
+				"formElement"
+			],
+			[
+				"con",
+				"contentElement"
+			],
+			[
+				"date",
+				"dateElement"
+			],
+			[
+				"email",
+				"emailElement"
+			],
+			[
+				"tel",
+				"telElement"
+			],
+			[
+				"las",
+				"lastnameElement"
+			],
+			[
+				"sub",
+				"submitButtonElement"
+			],
+			[
+				"post",
+				"postCollection"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"br",
+				"bxsh-r	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+			],
+			[
+				"brds",
+				"bdrst	border-right-style"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"local",
+				"localStream"
+			],
+			[
+				"use",
+				"usernameInput"
+			],
+			[
+				"style",
+				"stylesheet"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/julienmoulin/Sites/mst_scrapper"
+	],
+	"file_history":
+	[
+		"/Users/julienmoulin/Sites/mst_scrapper/index.html",
+		"/Users/julienmoulin/Sites/mst_scrapper/screenshot.js",
+		"/Users/julienmoulin/Sites/mst_scrapper/wordpressProcess.js",
+		"/Users/julienmoulin/Sites/mst_scrapper/README.rst",
+		"/Users/julienmoulin/Sites/mst_scrapper/getCommentsCollection.js",
+		"/Users/julienmoulin/Sites/mst_scrapper/mst_collection.js",
+		"/Users/julienmoulin/Desktop/mst/index.html",
+		"/Users/julienmoulin/package.json",
+		"/Users/julienmoulin/scrap_mst.js",
+		"/Users/julienmoulin/Sites/counter/content/index.html",
+		"/Users/julienmoulin/Desktop/interface-es/es.js",
+		"/Users/julienmoulin/Desktop/request_es",
+		"/Users/julienmoulin/Desktop/interface-es/index.html",
+		"/Users/julienmoulin/Sites/ionic-project/Destinr/destiny/server.js",
+		"/Users/julienmoulin/Desktop/interface-es/injures.html",
+		"/Users/julienmoulin/Desktop/interface-es/mapping.json",
+		"/Users/julienmoulin/Desktop/elasticsearch-node2/config/elasticsearch.yml",
+		"/Users/julienmoulin/Desktop/mci/MyCoach'in Admin_files/LogFactory.js",
+		"/Users/julienmoulin/Desktop/mci/MyCoach'in Admin_files/app.js",
+		"/Users/julienmoulin/Desktop/mci/MyCoach'in Admin_files/PartnerFactory.js",
+		"/Users/julienmoulin/Desktop/mci/MyCoach'in Admin_files/SecurityFactory.js",
+		"/Users/julienmoulin/Sites/Symfony2/app/config/parameters.yml",
+		"/Users/julienmoulin/Desktop/javascript/assets/css/style.css",
+		"/Users/julienmoulin/Desktop/javascript/src/app.js",
+		"/Users/julienmoulin/Desktop/javascript/src/localStorage.js",
+		"/Users/julienmoulin/Desktop/javascript/src/controller/taskController.js",
+		"/Users/julienmoulin/Downloads/animate.css",
+		"/Users/julienmoulin/Desktop/javascript/src/run/initTaskCollection.js",
+		"/Users/julienmoulin/Desktop/javascript/index.html",
+		"/Users/julienmoulin/Desktop/javascript/vendor/angular.js",
+		"/Users/julienmoulin/Desktop/javascript/app.js",
+		"/Users/julienmoulin/Downloads/events-1.html",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/8CF2A744-44D7-41B8-9ACA-9D2F3AAA95DE/index.html",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/123F1D0A-41F9-4BC7-AD98-36DF30189324/index.html",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/F3C830EE-9610-42C9-8360-B90E28CCC7E3/index.html",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/61743629-95DB-4AC6-89DD-1D18058FBEFA/index.html",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/858DF074-6619-4FD1-8BC7-FB3AB2EC6D00/index.html",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/B4F87D73-DAC8-41B3-9A6D-48EAFC9009F7/index.html",
+		"/Users/julienmoulin/Documents/public.pem",
+		"/Users/julienmoulin/Downloads/SiteVitrine/trouver.html",
+		"/Users/julienmoulin/Desktop/trouver.html",
+		"/Users/julienmoulin/Downloads/WebPro/events-create.html",
+		"/Users/julienmoulin/Downloads/WebPro/js/events-create.js",
+		"/Users/julienmoulin/Downloads/WebPro/css/events-create.css",
+		"/Users/julienmoulin/Downloads/WebPro/js/dropzone-events.js",
+		"/Users/julienmoulin/Downloads/01- Index (1)/trouver.html",
+		"/Users/julienmoulin/Downloads/WebPro/js/dropzone.js",
+		"/Users/julienmoulin/Downloads/02- Changement de MdP/index.html",
+		"/Users/julienmoulin/Downloads/01- Index/confirmation.html",
+		"/Users/julienmoulin/Sites/mycoachin/admin/web/v2/libs/assets/font-awesome/css/font-awesome.css",
+		"/Users/julienmoulin/Desktop/ionic/Fichiers_source/Chapitre_03/05/lpa/mobile-app/gulpfile.js",
+		"/Users/julienmoulin/Desktop/ionic/Fichiers_source/Chapitre_03/05/lpa/mobile-app/www/js/app.js",
+		"/Users/julienmoulin/Downloads/results_circuit_training (2).json",
+		"/Users/julienmoulin/Downloads/results_circuit_training.json",
+		"/Users/julienmoulin/Downloads/results_circuit_training (1).json",
+		"/Users/julienmoulin/Sites/mycoachin/config.json",
+		"/Users/julienmoulin/Sites/mycoachin/fabfile.py",
+		"/Users/julienmoulin/Downloads/fabfile.py",
+		"/Users/julienmoulin/Desktop/backbone/Single Page Applications with Backbone.js and Marionette.js.html",
+		"/Applications/MAMP/bin/php/php5.5.17/lib/php/extensions/no-debug-non-zts-20121212/mongo.so",
+		"/Users/julienmoulin/Downloads/glyphicons_pro/glyphicons_social/web/html_css/index.html",
+		"/Users/julienmoulin/Sites/lapetiteannonce/settings.json",
+		"/Users/julienmoulin/Downloads/glyphicons_pro/glyphicons/web/bootstrap_example/css/glyphicons-bootstrap.css",
+		"/Users/julienmoulin/Downloads/glyphicons_pro/glyphicons/web/html_css/css/style.css",
+		"/Users/julienmoulin/Sites/lapetiteannonce/mappings",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/26667172-7F98-4778-BDBD-22A518DC8F51/server.js",
+		"/Users/julienmoulin/Sites/angularjs-formation/models/Picture.js",
+		"/Users/julienmoulin/Sites/askgame/server/providers/socketQuestionProvider.js",
+		"/Users/julienmoulin/Sites/angularjs-formation/web-client/app/views/user/add.html",
+		"/Users/julienmoulin/Sites/angularjs-formation/web-client/app/views/ad/add.html",
+		"/Users/julienmoulin/Sites/angularjs-formation/web-client/bower.json",
+		"/Users/julienmoulin/Sites/angularjs-formation/web-client/app/app.js",
+		"/Users/julienmoulin/Sites/askGame/server/server.js",
+		"/Users/julienmoulin/Sites/workify/server/index.js",
+		"/Volumes/io-als917/io.nfo",
+		"/Users/julienmoulin/Downloads/worthy_v.1.0/plugins/jquery.js",
+		"/Users/julienmoulin/Sites/collectify_project/app/AppCache.php",
+		"/Users/julienmoulin/Sites/collectify_project/app/AppKernel.php",
+		"/Users/julienmoulin/Desktop/formation/404.html",
+		"/Users/julienmoulin/Desktop/formation/cache.manifest",
+		"/Users/julienmoulin/Desktop/formation/scriptjQ.js",
+		"/Users/julienmoulin/Desktop/formation/index.html",
+		"/Users/julienmoulin/Sites/collectify_project/web/app_dev.php",
+		"/Users/julienmoulin/Desktop/formation/bower.json",
+		"/Users/julienmoulin/Desktop/formation/style480.css",
+		"/Users/julienmoulin/Desktop/formation/partials/post.html",
+		"/Users/julienmoulin/Desktop/formation/style.css",
+		"/Users/julienmoulin/Desktop/formation/script.js",
+		"/Users/julienmoulin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/julienmoulin/Desktop/formation/html5shiv.js",
+		"/Users/julienmoulin/Desktop/texte_court_refactoring.txt",
+		"/Users/julienmoulin/Sites/lovanomy.io/.bowerrc",
+		"/Users/julienmoulin/Sites/lovanomy.io/bower.json",
+		"/Users/julienmoulin/Sites/lovanomy.io/database/seeds/DatabaseSeeder.php",
+		"/Users/julienmoulin/Sites/angular/dist/dist/index.html",
+		"/Users/julienmoulin/Documents/refactoring/2_03_extraction.php",
+		"/Users/julienmoulin/Sites/Hangman-master/tests/Hangman/Tests/WordTest.php",
+		"/Users/julienmoulin/Sites/Hangman-master/tests/Hangman/Tests/GameTest.php",
+		"/Users/julienmoulin/Sites/Hangman-master/composer.json",
+		"/Users/julienmoulin/Sites/Hangman-master/phpunit.xml",
+		"/Users/julienmoulin/Sites/formation/vendor/phpunit/phpunit/composer/bin/phpunit",
+		"/Users/julienmoulin/Downloads/a5452eaa15312b7c384c00ca4f3cb04b.ico/manifest.json",
+		"/Users/julienmoulin/Sites/formation/src/Acme/DemoBundle/Controller/DemoController.php",
+		"/Users/julienmoulin/Sites/formation/src/Acme/DemoBundle/Models/Car.php",
+		"/Users/julienmoulin/Sites/formation/src/Acme/DemoBundle/Models/Fiat.php",
+		"/Users/julienmoulin/Sites/formation/app/AppKernel.php",
+		"/Users/julienmoulin/Sites/formation/src/Acme/DemoBundle/Models/AirbagInterface.php",
+		"/Users/julienmoulin/Sites/formation/web/app_dev.php",
+		"/Users/julienmoulin/Sites/formation/app/bootstrap.php.cache",
+		"/Users/julienmoulin/Sites/formation/app/autoload.php",
+		"/Users/julienmoulin/Sites/formation/composer.json",
+		"/Users/julienmoulin/Sites/formation/app/Resources/views/base.html.twig",
+		"/Users/julienmoulin/Sites/formation/web/app.php",
+		"/Users/julienmoulin/Sites/formation/app/logs/dev.log",
+		"/Users/julienmoulin/Downloads/ApplicationDeRecetteFwSfn2/vendor/grandlyon/authentication-bundle/GrandLyon/AuthenticationBundle/Controller/AuthController.php",
+		"/Users/julienmoulin/Downloads/ApplicationDeRecetteFwSfn2/vendor/grandlyon/authentication-bundle/GrandLyon/AuthenticationBundle/Resources/config/routing.yml",
+		"/Users/julienmoulin/Downloads/ApplicationDeRecetteFwSfn2/vendor/grandlyon/authentication-bundle/GrandLyon/AuthenticationBundle/Security/UserProvider.php",
+		"/Users/julienmoulin/Downloads/ApplicationDeRecetteFwSfn2/vendor/grandlyon/authentication-bundle/GrandLyon/AuthenticationBundle/Security/UserAuthenticationProvider.php",
+		"/Users/julienmoulin/Downloads/ApplicationDeRecetteFwSfn2/vendor/grandlyon/authentication-bundle/GrandLyon/AuthenticationBundle/Security/User.php",
+		"/Users/julienmoulin/Downloads/ApplicationDeRecetteFwSfn2/vendor/grandlyon/authentication-bundle/GrandLyon/AuthenticationBundle/Services/sfCurlAdapter.php",
+		"/Users/julienmoulin/Sites/untitled folder/index.html",
+		"/Users/julienmoulin/Downloads/ApplicationDeRecetteFwSfn2/app/config/routing.yml",
+		"/Users/julienmoulin/config.php",
+		"/Users/julienmoulin/ajax.php",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/E42F58F3-57F6-400B-9651-C488D411826D/index.html",
+		"/Users/julienmoulin/Library/Caches/Cleanup At Startup/Transmit/4189E2E8-9D97-4218-9554-DBC41188BF92/index.php",
+		"/Users/julienmoulin/Sites/html5_simple/theme.css",
+		"/Users/julienmoulin/Sites/html5_simple/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"audrey_le fur",
+			"le_nest ludovic",
+			"e_nest ludovi",
+			"vince.l",
+			"luc_van daele",
+			"l.caffarel",
+			"div.l.caffarel",
+			"g.boriso",
+			"g.a",
+			".\"}",
+			"div.nicolas_k",
+			"div.nicolas_k.",
+			"\">\n",
+			"	\n",
+			"world-ma",
+			"dz",
+			"drop",
+			"dropzone",
+			"50c2836012c97e561b000003",
+			"admincleanCommand",
+			"{\n    \"mappings\": {\n      \"items\": {\n          \"dynamic_templates\": [\n              {\n                  \"strings\": {\n                      \"match\": \"*\",\n                      \"match_mapping_type\": \"string\",\n                      \"mapping\": {\n                          \"type\": \"string\",\n                          \"index\": \"analyzed\",\n                          \"analyzer\": \"custom_french_analyzer\"\n                      }\n                  }\n              }\n        ],\n        \"properties\": {\n            \"content\": {\n                \"type\": \"string\"\n            },\n            \"created_at\": {\n              \"type\": \"date\",\n              \"format\": \"dateOptionalTime\"\n            }\n        }\n      }\n    }\n}",
+			"postCollection",
+			"	<",
+			"+'\\}';",
+			".value",
+			"value = ",
+			"document.querySelector(",
+			"');\n",
+			"il faut faire attention",
+			"il y a deux",
+			"iframe",
+			"https",
+			"https://www.video2brain.com/fr/formation/decouverte-de-symfony2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"}",
+			"509937d612c97ea717000006",
+			");\n",
+			".val()",
+			"val(",
+			"$(",
+			"http"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mst.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"packagecontrol",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mst_scrapper",
+  "version": "1.0.0",
+  "description": "sips -s format jpeg ./*.png --out jpegs",
+  "main": "getCommentsCollection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^1.10.0",
+    "nodemailer-smtp-transport": "^1.0.4",
+    "winston": "^2.1.1"
+  }
+}
